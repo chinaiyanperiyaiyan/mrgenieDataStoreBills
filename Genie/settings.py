@@ -14,7 +14,7 @@ SECRET_KEY = 'django-insecure-=-urq)=vt7^vw5tjspqqs$^0w6#=ea(w+p3o)bv&r#g%l1ju01
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'mrgenie.pythonanywhere.com' , "http://localhost:5173"]
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'mrgenie.pythonanywhere.com' , "http://localhost:5173" , 'www.mrgenie.shop']
 
 CORS_ALLOW_ALL_ORIGINS = True
 
